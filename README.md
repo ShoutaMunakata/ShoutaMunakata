@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ShoutaMunakata<br>👀 I’m interested in Web/Game Development<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on projects with other web designers<br>📫 How to reach me - annshrunes@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm into astrophysics & quantum mechanics
+👋 Hi, I’m @annshrunes<br>👀 I’m interested in Web/Game Development<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on projects with other web designers<br>📫 How to reach me - annshrunes@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm into astrophysics & quantum mechanics
 
 
 ## 🌐 Socials:
